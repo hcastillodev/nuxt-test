@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import {  } from "module";
+import {  } from "bulmaa csss";
 const route = useRoute()
 </script>
 
