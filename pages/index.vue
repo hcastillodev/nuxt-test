@@ -1,4 +1,5 @@
 <script setup lang="ts">
+import {  } from "module";
 const route = useRoute()
 </script>
 
